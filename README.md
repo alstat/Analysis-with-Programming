@@ -1,1 +1,2 @@
-### Space-Time ARIMA in R
+### Thesis: Space-Time Autoregressive Integrated Moving Average
+
