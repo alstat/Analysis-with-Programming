@@ -1,5 +1,6 @@
 ### Thesis: Space-Time Autoregressive Integrated Moving Average
 
+## Abstract
 The purpose of the study is to expose the three iterative model building
 procedure of space-time autoregressive integrated moving average (STARIMA)
 on both simulated and actual (rainfall) data. This paper uses the Box and
