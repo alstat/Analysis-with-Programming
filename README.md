@@ -11,3 +11,9 @@ ditional sum of squares functions of the simulated and rainfall data, respec-
 tively. The statistical software used is R, and methods of space-time ARIMA
 in R is presented in this paper. Finally, the space-time ARIMA forecast errors
 were found to be satisfactory for both data.
+
+## Scope of the Study
+This study will focus on ARIMA and STARIMA modelling, and will
+cover the identification, estimation, and diagnostic checking. The study will
+use the R statistical package for graphical illustrations and numeric computa-
+tions. The data analysed is the rainfall data of the city of Hong Kong.
