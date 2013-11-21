@@ -1,6 +1,6 @@
 What is this repository for?
 =============================
-This is for the codes and data form [Analysis with Programming](http://alstatr.blogspot.com/) blog.
+This is for the codes and data from [Analysis with Programming](http://alstatr.blogspot.com/) blog.
 
 About [Analysis with Programming](http://alstatr.blogspot.com/)
 =============================
