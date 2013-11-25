@@ -1,3 +1,8 @@
+#Load the packages
+library(ggplot2)
+library(maptools)
+library(OpenStreetMap)
+
 #Import the data
 text <- download.file("https://raw.github.com/alstat/Analysis-with-Programming/master/2013/R/R-Mapping-Super-Typhoon-Yolanda-Haiyan-Track/TyDatYolanda2013.csv",
                       destfile = "/tmp/test.csv", method = "curl")
