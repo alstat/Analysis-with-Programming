@@ -112,7 +112,7 @@ qpacf <- function(x, conf.level = 0.95, max.lag = NULL,
 }
 ```
 
-is not mine, someone answered this on a Google groups discussion, and I just can't find a link to the discussion.
+aren't mine, someone shared these on a Google groups discussion, and I just can't find the link to it.
 
 Thanks to
 =================================
