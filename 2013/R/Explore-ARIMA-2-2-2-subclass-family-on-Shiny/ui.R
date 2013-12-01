@@ -25,7 +25,7 @@ shinyUI(pageWithSidebar(
           value = 0)),
       wellPanel(
         HTML('<p><center><img src="http://spark.rstudio.com:8787/files/ShinyApps/arima/awsr.png" width = "45%"/>
-             <br/><br/><b><a href="http://alstatr.blogspot.com/" target = "_blank">Analysis with Programming</a></b>
+             <br/><br/><b><a href="http://alstatr.blogspot.com/" target = "_blank">Analysis with Programming</a></b><br/>
              <a href="https://www.facebook.com/pages/Analysis-with-Programming/145193032232528"
              target = "_blank">Facebook</a><b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
              <a href="https://plus.google.com/b/113399232174536016748/+AlstatrBlogspot/posts"
@@ -90,7 +90,7 @@ shinyUI(pageWithSidebar(
       wellPanel(
         HTML('<p><center><img src="http://spark.rstudio.com:8787/files/ShinyApps/arima/awsr.png" width = "45%"/>
              <br/><br/><b><a href="http://alstatr.blogspot.com/"
-             target = "_blank">Analysis with Programming</a></b>
+             target = "_blank">Analysis with Programming</a></b><br/>
              <a href="https://www.facebook.com/pages/Analysis-with-Programming/145193032232528"
              target = "_blank">Facebook</a><b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
              <a href="https://plus.google.com/b/113399232174536016748/+AlstatrBlogspot/posts"
