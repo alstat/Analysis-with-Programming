@@ -1,4 +1,4 @@
-About the code
+About the codes
 ========================
 
 The two functions in `server.R` for **Autocorrelation Function** (ACF) and **Partial Autocorrelation Function** (PACF), which are the following (I did some modification),
@@ -113,3 +113,8 @@ qpacf <- function(x, conf.level = 0.95, max.lag = NULL,
 ```
 
 is not mine, someone answered this on a Google groups discussion, and I just can't find a link to the discussion.
+
+Thanks to
+=================================
+1. [RStudio](http://www.rstudio.com/) Team
+
