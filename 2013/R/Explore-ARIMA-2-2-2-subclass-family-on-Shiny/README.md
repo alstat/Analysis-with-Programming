@@ -3,7 +3,7 @@ About the code
 
 The two functions in `server.R` for **Autocorrelation Function** (ACF) and **Partial Autocorrelation Function** (PACF), which are the following (I did some modification),
 
-```{r}
+```{R}
 qacf <- function(x, conf.level = 0.95, max.lag = NULL,
                  min.lag = 0) {
   ciline <- qnorm((1 - conf.level)/2)/sqrt(length(x))
