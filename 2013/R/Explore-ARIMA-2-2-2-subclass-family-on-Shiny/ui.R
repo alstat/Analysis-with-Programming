@@ -92,7 +92,8 @@ shinyUI(pageWithSidebar(
              <br/><br/><b><a href="http://alstatr.blogspot.com/"
              target = "_blank">Analysis with Programming</a></b>
              <a href="https://www.facebook.com/pages/Analysis-with-Programming/145193032232528"
-             target = "_blank">Facebook</a><b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b><a href="https://plus.google.com/b/113399232174536016748/+AlstatrBlogspot/posts"
+             target = "_blank">Facebook</a><b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+             <a href="https://plus.google.com/b/113399232174536016748/+AlstatrBlogspot/posts"
              target = "_blank">Google+</a><br/><br/>Al-Ahmadgaid Asaad<br/><a 
              href="https://twitter.com/alstated"
              target = "_blank">@alstated</a></center></p>')))),
