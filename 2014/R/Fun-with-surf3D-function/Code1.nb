@@ -1,0 +1,2 @@
+ParametricPlot3D[{1.16^v Cos[v] (1 + Cos[u]), -1.16^v Sin[v] (1 + Cos[u]),
+  -2 1.16^v (1 + Sin[u])}, {u, 0, 2 Pi}, {v, -15, 6}, Mesh -> All, PlotRange -> All]
