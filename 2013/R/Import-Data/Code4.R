@@ -9,3 +9,7 @@ MyRData3 <- read.table(header = TRUE,
                                IDS 	         6       6         10       9
                                SCS           4      10         11      10
                                SET 	        23      11          8      11")
+
+colMeans(MyRData3[, -1])
+colMeans
+mean(c(30,21,23,19))
